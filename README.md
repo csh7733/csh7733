@@ -1,7 +1,5 @@
 # CHOI SUNG HYUN
 
-Welcome to my GitHub profile! I'm a passionate developer always looking to learn and improve.
-
 ### Tech Stacks
 
 <p align="left">
